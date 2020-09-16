@@ -1,7 +1,7 @@
 # Setup
 title:            Nicole's IDH Blog
 tagline:          ''
-description:      'Created for Intro to DH, Northeasyer University, Fall 2020'
+description:      'Created for Intro to DH, Northeastern University, Fall 2020'
 url:              https://sojkowski.github.io
 baseurl:          '/IDH-blog/'
 paginate:         5
