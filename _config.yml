@@ -1,7 +1,7 @@
 # Setup
 title:            Nicole's IDH Blog
 tagline:          'Exploring Digital Humanities'
-description:      'Created for Intro to DH, a Grad course at _Northeastern University_, Fall 2020'
+description:      'Created for Intro to DH, a Grad course at Northeastern University, Fall 2020'
 url:              https://sojkowski.github.io
 baseurl:          '/IDH-blog/'
 paginate:         5
