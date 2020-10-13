@@ -38,3 +38,5 @@ I am overextending my character limit for a 'blog post' type of read so I will c
 \**Shoutout to my mom, who I called on the phone and talked about this project with around my midway point. I was explaining Regular Expression and my mathematical notation of syntax patterns that I had created, which at the time had only contained notation from Groups 1 and 2. She was the one who asked about single character uppercase emphasis and I realized I had not written my expression to catch these instances! I had not seen single-character emphasis in my skim of the text and it had not occurred to me to try and catch this information. I added the third piece to my notation expecting zero matches and was surprised at what I might have missed! This information, that I had dismissed as a possibility, lead me to investigate further.
 
 **Bibliography**
+
+Austen, Jane. *Pride and Prejudice*. Project Gutenberg, 2008. Thomas Edgerton, 1813. [www.gutenberg.org/ebooks/1342](www.gutenberg.org/ebooks/1342). Accessed 8 October 2020.
