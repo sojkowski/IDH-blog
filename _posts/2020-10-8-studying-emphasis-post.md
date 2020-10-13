@@ -39,4 +39,4 @@ I am overextending my character limit for a 'blog post' type of read so I will c
 
 **Bibliography**
 
-Austen, Jane. *Pride and Prejudice*. Project Gutenberg, 2008. Thomas Edgerton, 1813. [www.gutenberg.org/ebooks/1342](www.gutenberg.org/ebooks/1342). Accessed 8 October 2020.
+Austen, Jane.  *Pride and Prejudice*.  Project Gutenberg,  2008.  Thomas Edgerton,  1813. [www.gutenberg.org/ebooks/1342](www.gutenberg.org/ebooks/1342). Accessed 8 October 2020.
