@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Studying Emphasis
+title: Studying Emphasis in Pride and Prejudice
 ---
 
 As I mentioned in my last post, a big reason why I enjoy the Digital Humanities is the flexibility it affords me. Research can very easily change course depending on what programs I use and what occurrences I find interesting. The idea behind this post was discovered by accident during a class discussion on using text files from Project Gutenburg in relation to 'cleaning data' with Regular Expression.
