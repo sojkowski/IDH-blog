@@ -1,11 +1,12 @@
 ---
 layout: post
+
 title: Humanities Scholarship: Why Gaming?
 ---
 
 
 
-#**Why Gaming?**
+#Why Gaming?
 
 Video Games create digital spaces to simulate narratives of all types. I think when video games are discusses, the topic is primarily news stories portraying first-person shooters in a negative light. Picturing the entire medium of video games in this way is harmfully reductive, as simulations are a great way to teach and learn.
 
@@ -15,7 +16,7 @@ Their potential as a medium is astounding, and I think we are just at the beginn
 
 
 
-#**Why Does Gaming Matter?**
+#Why Does Gaming Matter?
 
 It is [widely](https://pediatrics.aappublications.org/content/119/1/182) [established](https://pediatrics.aappublications.org/content/142/3/e20182058) that play is essential to children's development, as it contributes to "the cognitive, physical, social, and emotional well-being of children and youth." Play supports relationship building, encourages the pursuit of goals, and promotes executive brain function. Additionally, play has been noted to regulate our body's stress response. Indeed, these benefits are why even adults are encouraged to use their leisure time to play. For [adults](https://www.helpguide.org/articles/mental-health/benefits-of-play-for-adults.htm), play can improve and fuel your imagination, creativity, and problem-solving abilities, while also regulating stress and emotional well-being (as mentioned for children), teaching cooperation, improving social skills.
 
@@ -25,7 +26,7 @@ This is exactly why I think it is important to not overlook nuance when referrin
 
 
 
-#**Simulation vs Simulator**
+#Simulation vs Simulator
 
 I would like to spend my next blog post actually interacting and discussing specific games, so I would like to lay some of the terminology groundwork here, where I am already discussing why this medium is of scholarly interest to me. Specifically, I would like to clarify right now the difference between a _simulation_ and a _simulator_. 
 
