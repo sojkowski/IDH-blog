@@ -2,7 +2,7 @@
 layout: post
 title: Humanities Scholarship: Why Gaming?
 ---
-**Why Gaming?**
+
 
 Video Games create digital spaces to simulate narratives of all types. I think when video games are discusses, the topic is primarily news stories portraying first-person shooters in a negative light. Picturing the entire medium of video games in this way is harmfully reductive, as simulations are a great way to teach and learn.
 
