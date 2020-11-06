@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Humanities Scholarship- Why Gaming?
+title: Humanities Scholarship... Why Video Games?
 ---
 
 
